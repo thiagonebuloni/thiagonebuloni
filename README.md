@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thiagonebuloni
 - 👀 I’m interested in programming and Data Science
-- 🌱 I’m currently learning Python and Data Science
+- 🌱 I’m currently learning Python, Data Science and C programming on Harvard's CS50
 - 💞️ I’m looking to collaborate on Data Science projects
 
 
