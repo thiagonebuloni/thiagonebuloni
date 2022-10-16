@@ -1,4 +1,4 @@
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonebuloni" alt="Counter" width=250 />  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagonebuloni&theme=vue" alt="Counter" width=700 /></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonebuloni" alt="Counter" width=250 />  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagonebuloni&theme=vue" alt="Counter" width=600 /></div>
 
 
 ### pt_BR
