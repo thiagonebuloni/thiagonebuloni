@@ -2,7 +2,8 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonebuloni&layout=compact&theme=nord)]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonebuloni&layout=compact&theme=nord)
 
 <div><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagonebuloni&theme=nord_dark" alt="Counter" width=600 /></div>
 
@@ -64,6 +65,9 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" width=40/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="max-width=100%;"/>
+
+icone with shadow:
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="max-width: 100%;"></a></code>
 
 thiagonebuloni/thiagonebuloni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
