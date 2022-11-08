@@ -29,7 +29,9 @@
 
 <p><strong>Referências:</strong></p>
 <div><a href="https://www.linkedin.com/in/thiago-nebuloni-51446593/" target="_blank"><img src="https://img.shields.io/badge/thiagonebuloni-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-nebuloni-51446593/" alt="LinkedIn" width=120 /></a> <a href="https://codepen.io/ThiagoNebuloni/"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=blue" alt="CodePen" width=84 /></a>
-<a href="https://twitter.com/Nebulonit" alt="Twitter" target="_blank"><img src="https://img.shields.io/badge/Nebulonit-1DA1F2?style=flat-square&logo=twitter&logoColor=white" width=90 /></a></div>
+<a href="https://twitter.com/Nebulonit" alt="Twitter" target="_blank"><img src="https://img.shields.io/badge/Nebulonit-1DA1F2?style=flat-square&logo=twitter&logoColor=white" width=90 /></a>
+<a href="mailto:thiago.nebuloni@gmail.com" alt="Gmail" target"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width=71 />
+</div>
 
 
 <!---
