@@ -3,7 +3,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonebuloni&layout=compact&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonebuloni&layout=compact&theme=nord&PAT_1)
 
 <div><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagonebuloni&theme=nord_dark" alt="Counter" width=600 /></div>
 
