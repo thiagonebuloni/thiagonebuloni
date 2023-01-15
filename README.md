@@ -1,10 +1,5 @@
 
 
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonebuloni&layout=compact&theme=nord&PAT_1)
-
 <div><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagonebuloni&theme=nord_dark" alt="Counter" width=600 /></div>
 
 
@@ -37,6 +32,7 @@
 
 
 <!---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonebuloni&layout=compact&theme=nord&PAT_1)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonebuloni" alt="Counter" width=250 /> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagonebuloni&show_icons=true&theme=dracula)
 <a href="https://www.linkedin.com/in/thiagonebuloni-"><img src="https://img.shields.io/badge/thiagonebuloni-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagonebuloni-" target="new" alt="LinkedIn" width=120 /></a>
