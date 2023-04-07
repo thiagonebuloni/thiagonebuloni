@@ -30,7 +30,8 @@ na <a href="https://imalearningplace.com/programa-sharp-coders">Ímã Learning P
 <a href="https://twitter.com/Nebulonit" alt="Twitter" target="_blank"><img src="https://img.shields.io/badge/Nebulonit-1DA1F2?style=flat-square&logo=twitter&logoColor=white" width=90 /></a>
 <a href="mailto:thiago.nebuloni@gmail.com" alt="Gmail" target"_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width=71 />
 </div>
-
+<hr>
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
 
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagonebuloni&layout=compact&theme=nord&PAT_1)
